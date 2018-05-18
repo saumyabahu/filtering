@@ -1,0 +1,10 @@
+[?14-?05-?2018 11:38] Shitalkumar1 Sukhdeve (Consultant): 
+https://www.r-bloggers.com/intro-to-sound-analysis-with-r/ 
+[?14-?05-?2018 11:45] Shitalkumar1 Sukhdeve (Consultant): 
+https://www.r-project.org/conferences/useR-2009/slides/Sueur+Aubin+Simonis.pdf  
+[?14-?05-?2018 12:55] Shitalkumar1 Sukhdeve (Consultant): 
+https://cran.r-project.org/web/packages/seewave/seewave.pdf 
+[?14-?05-?2018 18:13] Shitalkumar1 Sukhdeve (Consultant): 
+https://cran.r-project.org/web/packages/warbleR/vignettes/warbleR_workflow_phase2.html  
+
+https://www.southampton.ac.uk/~jps7/D8%20website/Multi%20Attribute%20decision%20analysis.pdf
